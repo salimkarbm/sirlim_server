@@ -1,6 +1,7 @@
 const router  = require('./src/Routes/index');
 const path = require('path');
 const dotenv = require('dotenv');
+const cors = require('cors');
 const appPath = require('app-root-path');
 
 // import express
